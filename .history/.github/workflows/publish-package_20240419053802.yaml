@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - 6_npm_workflow_end*
     paths:
       - tsconfig-project/**
   workflow_dispatch:

@@ -10,13 +10,13 @@
 		"version": "auto-changelog -p && git add CHANGELOG.md",
 		"test": "echo 'skip'"
 	},
-	"author": "mikeabramo",
+	"author": "scottwestover",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/sonnymonroe/typescript-snowpack-template.git"
+		"url": "https://github.com/devshareacademy/typescript-snowpack-template.git"
 	},
-	"homepage": "https://github.com/sonnymonroe/typescript-snowpack-template",
+	"homepage": "https://github.com/devshareacademy/typescript-snowpack-template",
 	"devDependencies": {
 		"@types/jest": "27.0.1",
 		"@typescript-eslint/eslint-plugin": "4.31.0",
